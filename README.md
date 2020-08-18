@@ -9,8 +9,8 @@ I will add my own custom config by time to time.
 
 ## Advance
 
-- I have use [vim-plug](https://github.com/junegunn/vim-plug) as my plugin manager. As it is minimal and easy to use.
-- My added plugin for userinterface
+* I have use [vim-plug](https://github.com/junegunn/vim-plug) as my plugin manager. As it is minimal and easy to use.
+* My added plugin for userinterface
                 - NerdTree
                 - Buffergator
                 - SearchTask
@@ -22,4 +22,4 @@ I will add my own custom config by time to time.
                 - AirLine
                 - AirLine-Theme
                 - Zenburn
-- My plugin and configration is for web development mainly python, django, vue
+* My plugin and configration is for web development mainly python, django, vue
