@@ -23,3 +23,7 @@ I will add my own custom config by time to time.
   * AirLine-Theme
   * Zenburn
 * My plugin and configration is for web development mainly python, django, vue
+
+## Preview
+
+[![https://imgur.com/Q84Wp7b.png](https://imgur.com/Q84Wp7b.png)](https://imgur.com/Q84Wp7b.png)
