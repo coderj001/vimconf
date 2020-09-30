@@ -21,7 +21,7 @@ I will add my own custom config by time to time.
   * Devicons
   * AirLine
   * AirLine-Theme
-  * Zenburn
+  * PaperColor
 * My plugin and configration is for web development mainly python, django, vue
 
 ## Preview
